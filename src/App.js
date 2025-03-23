@@ -65,7 +65,7 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col items-center bg-gray-100 text-black p-4">
       <header className="w-full max-w-6xl flex justify-between items-center py-4">
-        <h1 className="text-2xl md:text-3xl font-bold">MintVault by Umair</h1>
+        <h1 className="text-2xl md:text-3xl font-bold">MintVault by Umair Sattar</h1>
         
         {user && (
           <div className="flex items-center space-x-4">
